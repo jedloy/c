@@ -1,0 +1,12 @@
+# Ignore all
+*
+
+# Unignore files with extensions and directories
+!*.*
+!*/
+
+# Unignore specific files without extensions
+!GNUmakefile
+
+# Ignore specific patterns and files
+*.o
